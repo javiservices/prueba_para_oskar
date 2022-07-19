@@ -1,0 +1,15 @@
+{
+  "name": "prueba-para-oskar",
+  "version": "1.0.5",
+  "description": "Paquete de prueba para oskar demasiado simple",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "solomarcadito",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
